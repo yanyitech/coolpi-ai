@@ -1,5 +1,6 @@
 # Tutorials
 
-## Install
+## Build Environment
 
-- [Install CoolPI-AI](./start/install.md)
+- [Build The Development Environment of CoolPI-AI](./start/install.md)
+- [Compile FastDeploy]()
