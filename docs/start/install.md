@@ -1,4 +1,4 @@
-# Install CoolPI-AI
+# Build The Development Environment of CoolPI-AI
 
 Before starting your work, you need to configure the use environment of CoolPI-AI. Please enter the following command
 under the CoolPI-AI root directory to complete the configuration of the environment.
