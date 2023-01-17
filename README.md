@@ -7,6 +7,6 @@ on CoolPI with reference to demo to improve work efficiency.
 
 ## Navigation
 
-- [docs]()
+- [docs](./docs/README.md)
 - [example]()
 - [third party](./third_party/README.md)
