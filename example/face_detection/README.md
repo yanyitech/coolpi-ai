@@ -46,7 +46,7 @@ unzip scrfd_500m_bnkps_shape640x640_rknpu2.zip
 wget https://raw.githubusercontent.com/DefTruth/lite.ai.toolkit/main/examples/lite/resources/test_lite_face_detector_3.jpg
 
 # Run
-./infer_with_scrfd scrfd_500m_bnkps_shape640x640_rknpu2/scrfd_500m_bnkps_shape640x640_rk3588_quantized.rknn \
+./infer_scrfd scrfd_500m_bnkps_shape640x640_rknpu2/scrfd_500m_bnkps_shape640x640_rk3588_quantized.rknn \
               test_lite_face_detector_3.jpg \
               1
 ```
